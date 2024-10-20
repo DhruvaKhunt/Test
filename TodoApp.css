@@ -1,0 +1,24 @@
+.todo-app-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 2rem;
+    background-color: #f0f4f8;
+    min-height: 90vh;
+    background-image: url("https://i.pinimg.com/736x/65/b0/2e/65b02e66980e58d919f92e7f38edac78.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: -120px;
+   
+  }
+  .heading{
+    margin-top: 70px;
+    margin-bottom: 0px;
+  }
+  
+  h1 {
+    font-size: 2.5rem;
+    margin-bottom: 1.5rem;
+    color: #333;
+  }
+  
